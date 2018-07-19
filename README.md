@@ -6,7 +6,7 @@ Artificial Intelligence Workshop
 
 1. Open the Notebook Instance 
 2. Once the notebook window opens in a second tab
-2.1 Click on the 'New' button and then go to 'Terminal'
+ 2.1 Click on the 'New' button and then go to 'Terminal'
 3. Inside the terminal, run the following commands: 
 
 ```
